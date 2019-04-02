@@ -17,4 +17,4 @@ public class Conexion {
         return (null);
     }
 }
-// 
+// Solicitar los datos de conexión, variables String.
