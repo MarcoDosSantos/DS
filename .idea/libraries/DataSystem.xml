@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DataSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DataSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
